@@ -99,3 +99,16 @@ The aim of the "Brain Hemorrhage Detection" project is to create a mobile applic
 -Start the Flask app on the EC2 instance.
 -Run the Flutter app using flutter run.
 -The complete system should now be operational for brain hemorrhage detection.
+
+### 7. References :
+-Dataset: https://www.kaggle.com/datasets/vbookshelf/computedtomography-ct-images
+-U-NET: https://www.mdpi.com/2313-433X/7/12/269
+-Flutter: https://docs.flutter.dev/
+-Flutter Firebase Authentication: https://youtu.be/o_ZeLqpqt90
+-ChatGPT (Debugging Tool): https://chat.openai.com/
+-Flutter OTP Authentication: https://youtu.be/ftFNV6k0xBY
+-Flask : https://flask.palletsprojects.com/en/2.3.x/
+-Firebase: https://firebase.google.com/
+-AWS: https://docs.aws.amazon.com/
+-Hosting Flask Application on AWS: https://youtu.be/ct1GbTvgVNM
+-Horovod GPU Programming: https://horovod.readthedocs.io/en/stable/summary_include.htm
