@@ -74,14 +74,16 @@ The aim of the "Brain Hemorrhage Detection" project is to create a mobile applic
 -Install necessary dependencies on the EC2 instance:
 -bash
 -Copy code
--sudo apt update
--sudo apt install python3-pip
--pip3 install -r requirements.txt
+```bash
+ sudo apt update
+ sudo apt install python3-pip
+ pip3 install -r requirements.txt
+```
 -Run Flask App:
 -Execute the following command to run the Flask app:
--bash
--Copy code
--python3 flask.py
+```bash
+ python3 flask.py
+```
 -Flask app will be running on the specified port.
 ### 4. Firebase Setup:
 -Firebase Authentication:
