@@ -1,4 +1,4 @@
-# Brain Hemorrhage Detection Project
+# Brain Hemorrhage Segmentation 
 
 ## Objective
 The aim of the "Brain Hemorrhage Detection" project is to create a mobile application that can identify and isolate brain hemorrhages by analyzing a series of images taken from brain CT scans. The application utilizes advanced techniques such as deep learning and machine learning and is developed using technologies such as Flutter, Firebase, Flask, and AWS. The goal is to offer precise and early detection of brain hemorrhages, facilitating prompt medical interventions and enhancing patients’ overall well-being.
